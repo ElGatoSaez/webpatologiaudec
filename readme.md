@@ -9,7 +9,7 @@ _Este es un rediseño de la página de [Web Patología UdeC](http://www2.udec.cl
 ## Mirrors
 
 * [Mirror 1 (saez.cat)](http://saez.cat/patologia)
-* [Mirror 2 (GitHub Pages)](https://webpatologiaudec.github.com/)
+* [Mirror 2 (GitHub Pages)](https://elgatosaez.github.io/webpatologiaudec/)
 
 ## Contribuyend
 
