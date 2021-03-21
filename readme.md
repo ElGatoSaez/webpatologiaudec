@@ -11,6 +11,6 @@ _Este es un rediseño de la página de [Web Patología UdeC](http://www2.udec.cl
 * [Mirror 1 (saez.cat)](http://saez.cat/patologia)
 * [Mirror 2 (GitHub Pages)](https://webpatologiaudec.github.com/)
 
-## Contribuyendo 🖇️
+## Contribuyend
 
 Para informar sobre algún enlace caído u otro problema, puedes hacerlo contactándome directamente a [mi correo UdeC](mailto:sesaez2019@udec.cl) o abriendo un issue en GitHub.
