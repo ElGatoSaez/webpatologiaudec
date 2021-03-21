@@ -4,7 +4,7 @@ _Este es un rediseño de la página de [Web Patología UdeC](http://www2.udec.cl
 
 ## Construido con
 
-* [Bootstrap v5.0.0-beta2](http://www.dropwizard.io/1.0.2/docs/)
+* [Bootstrap v5.0.0-beta2](https://getbootstrap.com/)
 
 ## Mirrors
 
